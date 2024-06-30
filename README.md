@@ -1,4 +1,4 @@
-# MovieVerse - Your Ultimate Movie App
+# MovieVerse
 
 ## Introduction
 
